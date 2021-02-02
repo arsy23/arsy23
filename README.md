@@ -1,6 +1,6 @@
  ## Hi there 👋
 
-🔭 I’m currently working on 7 projects
+🔭 I’m currently working on 6 Projects
 
  🌱 I’m currently learning
  - Cyber Security
@@ -8,7 +8,7 @@
  - Domain Driven Design 
  - Design Patterns
 
- 💬 Ask me about
+ 🤍 Ask me about
  - Programming 
  - Desing Patterns
  - Software Architecture and Architectural Patterns
@@ -20,4 +20,18 @@
  - Domain Driven Design
  - Test Driven Development
  - Version Control
- - C# GIT VISUAL CODE JS EF HTML POWERSHELL CSS EFCORE ADO.NET DOTNET CSS DOTNETCORE SCSS IDENTITY-SERVER BOOTSTRAP VISUAL-STUDIO GITHUB
+ 
+ 💠 My Experiences
+ + Object-Oriented Principles, Asyncronous Programming and Automative
+ + AspNet and AspNetIdentity
+ + AspNetCore and AspNetCoreIdentity 
+ + DotNet, DotNetCore, EntityFramework and EntityFrameworkCore
+ + Windows-Forms, Janus-Systems
+ + C#, Powershell, HTML, Css, Scss and Javascript
+ + Identity-Server, AutoMapper and MediatR
+ + Bootstrap and Jquery
+ + Xunit
+ + ADO.NET, DataSet and LinqToSql
+ + OAuth and OpenId-Connect
+ + Visual-Studio and Visual-Studio-Code
+ + VSTS, TFS, Git and Github
