@@ -26,9 +26,9 @@
  + AspNet and AspNetIdentity
  + AspNetCore and AspNetCoreIdentity 
  + DotNet, DotNetCore, EntityFramework and EntityFrameworkCore
- + Windows-Forms, Janus-Systems
+ + Windows-Forms
  + C#, Powershell, HTML, Css, Scss and Javascript
- + Identity-Server, AutoMapper and MediatR
+ + Identity-Server, AutoMapper, MediatR and Janus-Systems
  + Bootstrap and Jquery
  + Xunit
  + ADO.NET, DataSet and LinqToSql
