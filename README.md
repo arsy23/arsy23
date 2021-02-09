@@ -36,7 +36,7 @@
      - Unified Modeling Language (UML)
      - Test Driven Development (TDD) 
        - You can find-out some TDD Tested Cases in this Repo (<a href="https://github.com/arsalanfallahpour/DotNetCenter/blob/master/src/Core/Entities/Tests/UnitTest/Source/BeseValueObject/BaseValueObjectTest.cs">DotNetCenter.Core Tests</a>)
-     - Behavior-driven development (BDD)
+     - Behavior Driven Development (BDD)
      - Documenting
  - Software Development Life Cycle (SDLC):
     - Requirements Analysis
