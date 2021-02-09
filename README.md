@@ -18,9 +18,9 @@
    - Repository Pattern
    - Factory Pattern
    - Builder Pattern
-     - MVC
-     - MVVM
-     - MVP
+   - MVC
+   - MVVM
+   - MVP
  - Relational Database:
     - Microsoft Sql Server
  - Non-Relational Database
