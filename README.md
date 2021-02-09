@@ -7,6 +7,8 @@
  - Software Engineering
  - Domain Driven Design 
  - Design Patterns
+ - Relational Database
+ - Enterprise Software Architecture and Design
 
  🤍 Ask me about
  - Programming 
