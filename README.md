@@ -113,13 +113,16 @@
  💠 My Experiences
  + Object-Oriented Principles, Asyncronous Programming and Automative
  + AspNet and AspNetIdentity
- + AspNetCore and AspNetCoreIdentity 
- + DotNet, DotNetCore, EntityFramework and EntityFrameworkCore
+ + AspNetCore + Kestrel and AspNetCoreIdentity 
+ + DotNet, DotNetCore + CLI, EntityFramework and EntityFrameworkCore
+ + Sql, Json
+ + Http + Https, FTP, TCP, UDP, SMTP and SNMP
+ + Data Streaming
  + Design Web API's
  + Windows-Forms Application
  + Microsoft Sql Server Management Studio (SSMS)
  + C#, Powershell, HTML, Css, Scss and Javascript
- + Identity-Server, AutoMapper, MediatR and Janus-Systems
+ + Identity-Server + Jwt, AutoMapper, MediatR and Janus-Systems
  + Bootstrap and Jquery
  + Xunit
  + ADO.NET, DataSet and LinqToSql
