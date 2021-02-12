@@ -10,6 +10,7 @@
  - Software Engineering
  - Domain Driven Design
  - Design Patterns
+ - Architectural Patterns : Clean Architecture
  - Enterprise Software Architecture and Design
 
  🤍 Ask me about
@@ -82,6 +83,12 @@
     - Requirements Analysis
     - Design
         - Architectural Patterns
+         + N-Tier/Layer Architectures
+           + Data Centeric:
+              + 3 Layer Architecture
+            + Doamin Centeric:
+              + Clean Architecture
+              + Onion Architecture
     - Testing
     - Evolution   
  - OOP Desing:
