@@ -113,19 +113,18 @@
  💠 My Experiences
  + Object-Oriented Principles, Asyncronous Programming and Automative
  + AspNet and AspNetIdentity
- + AspNetCore + Kestrel and AspNetCoreIdentity 
- + DotNet, DotNetCore + CLI, EntityFramework and EntityFrameworkCore
- + Sql, Json
+ + <a href="https://docs.microsoft.com/en-us/aspnet/core/getting-started/">AspNetCore</a> + Kestrel and AspNetCoreIdentity 
+ + DotNet, <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction">DotNetCore</a> + CLI, <a href="https://docs.microsoft.com/en-us/ef/ef6/">EntityFramework</a> and <a href="https://docs.microsoft.com/en-us/ef/core/">EntityFrameworkCore</a>
  + Http + Https, FTP, TCP, UDP, SMTP and SNMP
  + Data Streaming
- + Design Web API's
- + Windows-Forms Application
- + Microsoft Sql Server Management Studio (SSMS)
- + C#, Powershell, HTML, Css, Scss and Javascript
- + Identity-Server + Jwt, AutoMapper, MediatR and Janus-Systems
- + Bootstrap and Jquery
- + Xunit
+ + Design and Develop (REST API's + Json) and (RPC API's + XML)
+ + <a href="https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netframeworkdesktop-4.8">Windows-Forms Application (DotNetFramework)</a> | <a href="https://docs.microsoft.com/en-us/dotnet/desktop/winforms/">Windows-Forms Application (DotNetCore)</a>
+ + <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms">Microsoft Sql Server Management Studio (SSMS)</a>
+ + <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">C#</a>, <a href="https://docs.microsoft.com/en-us/sql/sql-server/">Sql</a> <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview">Powershell</a>, HTML, Css, <a href="https://sass-lang.com/">Scss</a> and <a href="https://www.javascript.com/">Javascript</a>
+ + <a href="https://identityserver4.readthedocs.io/en/latest/">Identity-Server</a> + Jwt, <a href="https://docs.automapper.org/en/stable/Getting-started.html">AutoMapper</a>, <a href="https://github.com/jbogard/MediatR">MediatR</a>, <a href="https://fluentvalidation.net/">FluentValidation</a> and Janus-Systems
+ + <a href="https://getbootstrap.com/">Bootstrap</a> and <a href="https://jquery.com/">Jquery</a>
+ + <a href="https://xunit.net/">Xunit</a>
  + ADO.NET, DataSet and LinqToSql
- + OAuth and OpenId-Connect
- + Visual-Studio and Visual-Studio-Code
- + VSTS, TFS, Git and Github
+ + <a href="https://oauth.net/">OAuth</a> and <a href="https://openid.net/connect/">OpenId-Connect</a>
+ + <a href="https://visualstudio.microsoft.com/">Visual-Studio</a> and <a href="https://code.visualstudio.com/">Visual-Studio-Code</a>
+ + <a href="https://docs.microsoft.com/en-us/cli/vsts/?view=vsts-cli-latest">VSTS</a>, <a href="https://docs.microsoft.com/en-us/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops-2020">Azure DevOps Server</a>, <a href="https://git-scm.com/">Git</a> and <a href="https://github.com">Github</a>
