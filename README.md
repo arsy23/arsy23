@@ -93,7 +93,7 @@
     - Evolution   
  - OOP Desing:
       - SOLID Principles
- - Web Development (ServerTechnoogies|Backend|Frontend)
+ - Web Development (ServerTechnologies|Backend|Frontend)
  - Domain Driven Design:
     - Domin 
     - Core Doamin
