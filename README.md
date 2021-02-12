@@ -20,49 +20,48 @@
    - Refactoring
    - Using 
  - Software Desing Patterns:
-   - Repository Pattern
+   - Repository
    - Unit Of Work
    - Behavioral Patterns:
-     - (Observer - Publish/Subscribe) Pattern
-     - Command Pattern (Data Driven Pattern)
-     - Chain-of-Responsibility Pattern
-     - Null-Object Pattern
-     - Interpreter Pattern
-     - Iterator Pattern
-     - Mediator Pattern
-     - Template Method Pattern
-     - Servant Pattern
-     - Specification Pattern
-     - Memento Pattern
-     - Visitor Pattern
-     - Blackboard Pattern
+     - (Observer - Publish/Subscribe)
+     - Command (Data Driven Pattern)
+     - Chain-of-Responsibility 
+     - Null-Object
+     - Interpreter 
+     - Iterator 
+     - Mediator 
+     - Template Method 
+     - Servant 
+     - Specification 
+     - Memento 
+     - Visitor 
+     - Blackboard 
    - Structural Patterns:
      - Command Query Separation (CQS)
      - Command Query Responsibility Segregation (CQRS)
-     - (Adapter - Wrapper - Translator) Pattern
-     - Bridge Pattern
-     - Composite Pattern
+     - (Adapter - Wrapper - Translator) 
+     - Bridge 
+     - Composite 
      - Extension Object
-     - Decorator Pattern
-     - Proxy Pattern
-     - Facade Pattern
-     - Flyweight Pattern
-     - Command
-     - Twin Pattern
-     - Module Pattern
-     - Front-Controller Pattern
-     - Marker Pattern
+     - Decorator 
+     - Proxy 
+     - Facade 
+     - Flyweight 
+     - Twin
+     - Module 
+     - Front-Controller 
+     - Marker 
    - Creational Patterns:
-     - Dependency Injection Pattern
-     - Abstract Factory Pattern
-     - Builder Pattern
-     - Object Pool Pattern
-     - Lazy Initialization Pattern
+     - Dependency Injection 
+     - Abstract Factory 
+     - Builder 
+     - Object Pool 
+     - Lazy Initialization 
      - Resource Acquisition is Initialization (RAII)
-     - Factory Method Pattern
-     - Singleton Pattern
-     - Multiton Pattern
-     - Prototype Pattern
+     - Factory Method
+     - Singleton
+     - Multiton
+     - Prototype
    - Architectural Patterns:
       - MVC
       - MVVM
