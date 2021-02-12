@@ -82,11 +82,11 @@
  - Software Development Life Cycle (SDLC):
     - Requirements Analysis
     - Design
-        - Architectural Patterns
-         + N-Tier/Layer Architectures
-           + Data Centeric:
+        - Architectural Patterns:
+          + N-Tier/Layer Architectures
+            + Data Centeric:
               + 3 Layer Architecture
-            + Doamin Centeric:
+            + Domain Centeric:
               + Clean Architecture
               + Onion Architecture
     - Testing
