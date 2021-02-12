@@ -21,11 +21,52 @@
    - Using 
  - Software Desing Patterns:
    - Repository Pattern
-   - Factory Pattern
-   - Builder Pattern
-   - MVC
-   - MVVM
-   - MVP
+   - Unit Of Work
+   - Behavioral Patterns:
+     - (Observer - Publish/Subscribe) Pattern
+     - Command Pattern (Data Driven Pattern)
+     - Chain-of-Responsibility Pattern
+     - Null-Object Pattern
+     - Interpreter Pattern
+     - Iterator Pattern
+     - Mediator Pattern
+     - Template Method Pattern
+     - Servant Pattern
+     - Specification Pattern
+     - Memento Pattern
+     - Visitor Pattern
+     - Blackboard Pattern
+   - Structural Patterns:
+     - Command Query Separation (CQS)
+     - Command Query Responsibility Segregation (CQRS)
+     - (Adapter - Wrapper - Translator) Pattern
+     - Bridge Pattern
+     - Composite Pattern
+     - Extension Object
+     - Decorator Pattern
+     - Proxy Pattern
+     - Facade Pattern
+     - Flyweight Pattern
+     - Command
+     - Twin Pattern
+     - Module Pattern
+     - Front-Controller Pattern
+     - Marker Pattern
+   - Creational Patterns:
+     - Dependency Injection Pattern
+     - Abstract Factory Pattern
+     - Builder Pattern
+     - Object Pool Pattern
+     - Lazy Initialization Pattern
+     - Resource Acquisition is Initialization (RAII)
+     - Factory Method Pattern
+     - Singleton Pattern
+     - Multiton Pattern
+     - Prototype Pattern
+   - Architectural Patterns:
+      - MVC
+      - MVVM
+      - MVP
  - Relational Database:
     - Microsoft Sql Server
  - Non-Relational Database
@@ -43,10 +84,7 @@
     - Design
         - Architectural Patterns
     - Testing
-    - Evolution
- - Software Design
- - Software Patterns:
-   
+    - Evolution   
  - OOP Desing:
       - SOLID Principles
  - Web Development (ServerTechnoogies|Backend|Frontend)
@@ -72,6 +110,7 @@
  + DotNet, DotNetCore, EntityFramework and EntityFrameworkCore
  + Design Web API's
  + Windows-Forms Application
+ + Microsoft Sql Server Management Studio (SSMS)
  + C#, Powershell, HTML, Css, Scss and Javascript
  + Identity-Server, AutoMapper, MediatR and Janus-Systems
  + Bootstrap and Jquery
