@@ -21,6 +21,7 @@
    - Refactoring
    - Using 
  - Software Desing Patterns:
+   - Documenting
    - Repository
    - Unit Of Work
    - Behavioral Patterns:
