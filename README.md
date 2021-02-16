@@ -24,7 +24,7 @@
    - Documenting
    - Repository
    - Unit Of Work
-   - Behavioral Patterns:
+   - Behavioural Patterns:
      - (Observer - Publish/Subscribe)
      - Command (Data Driven Pattern)
      - Chain-of-Responsibility 
