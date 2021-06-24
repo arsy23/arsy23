@@ -6,6 +6,9 @@
     - U N Y T URL (<a href="https://github.com/arsalanfallahpour/ProjectCenter">goto Open-Source ProjectCenter Framework</a>)
 
  🌱 I’m currently learning
+  - Physics and Theories
+  - Astronomy
+  - Cosmology 
  - Cyber Security
  - Software Engineering
  - Domain Driven Design
@@ -99,12 +102,12 @@
     - Domin 
     - Core Doamin
     - Domain Model
-    - Sub-doamin
+    - Sub-domain
     - Generic-Sub Domain
     - Context
     - Context Map
     - Aggregates
-    - Aggregate Roots
+     - Aggregate Roots
     - Value Objects
     - Entitiy
  - Version Control:
