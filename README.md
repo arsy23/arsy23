@@ -6,9 +6,11 @@
     - U N Y T URL (<a href="https://github.com/arsalanfallahpour/ProjectCenter">goto Open-Source ProjectCenter Framework</a>)
 
  🌱 I’m currently learning
-  - Physics and Theories
-  - Astronomy
-  - Cosmology 
+ - Accounting
+ - Cost Accounting
+ - Physics and Theories
+ - Astronomy
+ - Cosmology 
  - Cyber Security
  - Software Engineering
  - Domain Driven Design
